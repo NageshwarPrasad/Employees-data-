@@ -1,2 +1,2 @@
 # Employees-data-
-This project is made on KNIME about employees data.
+This project about employee data was done on KNIME.
